@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="batchexecution.TrelloLogin">
+        <methods>
+          <include name="loginPagePrint"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- batchexecution.TrelloLogin -->
+      <class name="batchexecution.TrelloLogoutPage">
+        <methods>
+          <include name="preCondition"/>
+          <include name="LogoutPageTitle"/>
+          <include name="postCondition"/>
+        </methods>
+      </class> <!-- batchexecution.TrelloLogoutPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

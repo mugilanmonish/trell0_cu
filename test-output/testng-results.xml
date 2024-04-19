@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T13:37:47 IST" name="Default suite" finished-at="2024-04-08T13:40:30 IST" duration-ms="162931">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T13:37:47 IST" name="Default test" finished-at="2024-04-08T13:40:30 IST" duration-ms="162931">
+      <class name="com.qsp.trello.functional.FunctionalScenario">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:37:47 IST" name="preCondition" finished-at="2024-04-08T13:37:55 IST" duration-ms="7875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:37:55 IST" name="login" finished-at="2024-04-08T13:38:00 IST" duration-ms="5149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhretherTheUserIsAbleToNavigateHelpPage()[pri:1, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:00 IST" name="checkWhretherTheUserIsAbleToNavigateHelpPage" finished-at="2024-04-08T13:38:12 IST" duration-ms="11235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhretherTheUserIsAbleToNavigateHelpPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:12 IST" name="logout" finished-at="2024-04-08T13:38:18 IST" duration-ms="6215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:18 IST" name="login" finished-at="2024-04-08T13:38:21 IST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateShortutsPage()[pri:2, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:21 IST" name="checkWhetherTheUserIsAbleToNavigateShortutsPage" finished-at="2024-04-08T13:38:27 IST" duration-ms="6247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateShortutsPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:27 IST" name="logout" finished-at="2024-04-08T13:38:31 IST" duration-ms="3691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:31 IST" name="login" finished-at="2024-04-08T13:38:35 IST" duration-ms="4252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateProfilePage()[pri:3, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:35 IST" name="checkWhetherTheUserIsAbleToNavigateProfilePage" finished-at="2024-04-08T13:38:41 IST" duration-ms="6192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateProfilePage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:41 IST" name="logout" finished-at="2024-04-08T13:38:47 IST" duration-ms="5959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:47 IST" name="login" finished-at="2024-04-08T13:38:51 IST" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateCardsPage()[pri:4, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:51 IST" name="checkWhetherTheUserIsAbleToNavigateCardsPage" finished-at="2024-04-08T13:38:57 IST" duration-ms="6276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateCardsPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:38:57 IST" name="logout" finished-at="2024-04-08T13:39:04 IST" duration-ms="7073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:04 IST" name="login" finished-at="2024-04-08T13:39:06 IST" duration-ms="2529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateActivityPage()[pri:5, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:06 IST" name="checkWhetherTheUserIsAbleToNavigateActivityPage" finished-at="2024-04-08T13:39:13 IST" duration-ms="6142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateActivityPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:13 IST" name="logout" finished-at="2024-04-08T13:39:17 IST" duration-ms="4096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:17 IST" name="login" finished-at="2024-04-08T13:39:21 IST" duration-ms="4590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateSettingsPage()[pri:6, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:21 IST" name="checkWhetherTheUserIsAbleToNavigateSettingsPage" finished-at="2024-04-08T13:39:28 IST" duration-ms="6871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateSettingsPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:28 IST" name="logout" finished-at="2024-04-08T13:39:32 IST" duration-ms="3942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:32 IST" name="login" finished-at="2024-04-08T13:39:37 IST" duration-ms="4648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigatePricingPage()[pri:7, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:37 IST" name="checkWhetherTheUserIsAbleToNavigatePricingPage" finished-at="2024-04-08T13:39:44 IST" duration-ms="7755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigatePricingPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:44 IST" name="logout" finished-at="2024-04-08T13:39:51 IST" duration-ms="6672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:51 IST" name="login" finished-at="2024-04-08T13:39:54 IST" duration-ms="3157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateAppsPage()[pri:8, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:39:54 IST" name="checkWhetherTheUserIsAbleToNavigateAppsPage" finished-at="2024-04-08T13:40:03 IST" duration-ms="8564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateAppsPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:40:03 IST" name="logout" finished-at="2024-04-08T13:40:07 IST" duration-ms="4312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:40:07 IST" name="login" finished-at="2024-04-08T13:40:11 IST" duration-ms="3915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="checkWhetherTheUserIsAbleToNavigateBlogPage()[pri:9, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:40:11 IST" name="checkWhetherTheUserIsAbleToNavigateBlogPage" finished-at="2024-04-08T13:40:25 IST" duration-ms="13740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherTheUserIsAbleToNavigateBlogPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:40:25 IST" name="logout" finished-at="2024-04-08T13:40:29 IST" duration-ms="3951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.qsp.trello.functional.FunctionalScenario@9f116cc]" started-at="2024-04-08T13:40:29 IST" name="postCondition" finished-at="2024-04-08T13:40:30 IST" duration-ms="1516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.qsp.trello.functional.FunctionalScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
