@@ -7,3 +7,4 @@ Feature: feature to test google search functionality
     And hits enter
     Then user is navigated to search results
     # commit
+    # changes made by eclipse
